@@ -1,2 +1,2 @@
 # VR_Practice
-Practice Unity VR Development
+Practice for devoping skills in Unity VR Development.
